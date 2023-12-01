@@ -1,0 +1,4 @@
+com/hdfcbank/forms/pl/it/tests/CreatePageIT.class
+com/hdfcbank/forms/pl/it/tests/PublishPageValidationIT.class
+com/hdfcbank/forms/pl/it/tests/GetPageIT.class
+com/hdfcbank/forms/pl/it/tests/HtmlUnitClient.class

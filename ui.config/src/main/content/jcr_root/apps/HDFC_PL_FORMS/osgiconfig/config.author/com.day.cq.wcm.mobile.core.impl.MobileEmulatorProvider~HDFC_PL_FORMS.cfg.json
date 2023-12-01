@@ -1,0 +1,6 @@
+{
+  "mobile.resourceTypes": [
+    "HDFC_PL_FORMS/components/page"
+  ],
+  "README": "Indicate which page resource types should display the mobile emulators."
+}

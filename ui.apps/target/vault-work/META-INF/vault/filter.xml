@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/HDFC_PL_FORMS/clientlibs"/>
+    <filter root="/apps/HDFC_PL_FORMS/components"/>
+    <filter root="/apps/HDFC_PL_FORMS/i18n"/>
+</workspaceFilter>

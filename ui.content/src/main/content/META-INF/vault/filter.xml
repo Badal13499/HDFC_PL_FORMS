@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/HDFC_PL_FORMS" mode="merge"/>
+    <filter root="/content/HDFC_PL_FORMS" mode="merge"/>
+    <filter root="/content/dam/HDFC_PL_FORMS" mode="merge">
+        <exclude pattern="/content/dam/HDFC_PL_FORMS(/.*)?"/>
+        <include pattern="/content/dam/HDFC_PL_FORMS/jcr:content(/.*)?"/>
+    </filter>
+    <filter root="/content/dam/HDFC_PL_FORMS/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/HDFC_PL_FORMS" mode="merge"/>
+    <filter root="/content/dam/formsanddocuments-themes/HDFC_PL_FORMS" mode="merge"/>
+    <filter root="/content/dam/formsanddocuments-fdm/HDFC_PL_FORMS" mode="merge"/>
+    <filter root="/content/dam/HDFC_PL_FORMS/sample_logo.png" mode="merge"/>
+    <filter root="/content/dam/HDFC_PL_FORMS/sample_terms.png" mode="merge"/>
+</workspaceFilter>

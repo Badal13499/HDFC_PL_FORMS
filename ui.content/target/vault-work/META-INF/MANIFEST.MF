@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Build-Jdk-Spec: 20
+Implementation-Title: HDFC_PL_FORMS - UI content
+Implementation-Version: 1.0.0-SNAPSHOT
+Content-Package-Type: content
+Content-Package-Id: com.hdfcbank.forms.pl:HDFC_PL_FORMS.ui.content:1.0.0
+ -SNAPSHOT
+Content-Package-Description: UI content package for HDFC_PL_FORMS
+Content-Package-Dependencies: com.hdfcbank.forms.pl:HDFC_PL_FORMS.ui.app
+ s:1.0.0-SNAPSHOT
+Content-Package-Dependencies-Locations: com.hdfcbank.forms.pl:HDFC_PL_FO
+ RMS.ui.apps:1.0.0-SNAPSHOT=maven:com.hdfcbank.forms.pl:HDFC_PL_FORMS.ui
+ .apps:1.0.0-SNAPSHOT:zip
+Content-Package-Roots: /conf/HDFC_PL_FORMS,/content/HDFC_PL_FORMS,/conte
+ nt/dam/HDFC_PL_FORMS,/content/dam/HDFC_PL_FORMS/asset.jpg,/content/dam/
+ HDFC_PL_FORMS/sample_logo.png,/content/dam/HDFC_PL_FORMS/sample_terms.p
+ ng,/content/dam/formsanddocuments-fdm/HDFC_PL_FORMS,/content/dam/formsa
+ nddocuments-themes/HDFC_PL_FORMS,/content/experience-fragments/HDFC_PL_
+ FORMS
+

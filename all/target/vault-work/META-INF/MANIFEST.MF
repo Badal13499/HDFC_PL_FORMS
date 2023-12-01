@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Build-Jdk-Spec: 20
+Implementation-Title: HDFC_PL_FORMS - All
+Implementation-Version: 1.0.0-SNAPSHOT
+Content-Package-Type: container
+Content-Package-Id: com.hdfcbank.forms.pl:HDFC_PL_FORMS.all:1.0.0-SNAPSH
+ OT
+Content-Package-Description: All content package for HDFC_PL_FORMS
+Content-Package-Roots: /apps/HDFC_PL_FORMS-packages,/apps/HDFC_PL_FORMS-
+ vendor-packages
+
